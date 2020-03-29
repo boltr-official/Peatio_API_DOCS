@@ -1,9 +1,9 @@
-# Peatio_API_DOCS
-<html><head></head><body><link rel="stylesheet" type="text/css" href="vostok.css" id="_theme"><div id="_html" class="markdown-theme"><span class="octicon octicon-link"></span></a>Peatio Trade Exchange User API</h1>
-<p>API for Peatio Trade Exchange.</p>
+# Surface_API_Docs
+<html><head></head><body><link rel="stylesheet" type="text/css" href="vostok.css" id="_theme"><div id="_html" class="markdown-theme"><span class="octicon octicon-link"></span></a>Surface Exchange User API</h1>
+<p>API for Surface.</p>
 <h2 id="version-2-2-3"><a class="anchor" name="version-2-2-3" href="#version-2-2-3"><span class="octicon octicon-link"></span></a>Version: 2.2.3</h2>
-<p><strong>Contact information:</strong><br>PeatioTrade<br><a href="https://www.peatio.trade">https://www.peatio.trade</a><br><a href="mailto:hello@peatio.trade">hello@peatio.trade</a>  </p>
-<p><strong>License:</strong> <a href="https://peatio.trade">https://peatio.trade</a></p>
+<p><strong>Contact information:</strong><br>Surface<br><a href="https://www.surfacexchanges.com">https://www.surfacexchanges.com</a><br><a href="mailto:support@surfacexchanges.com">support@surfacexchanges.com</a>  </p>
+<p><strong>License:</strong> <a href="https://peatio.trade">https://surfacexchanges.com</a></p>
 <h3 id="security"><a class="anchor" name="security" href="#security"><span class="octicon octicon-link"></span></a>Security</h3>
 <p><strong>Bearer</strong>  </p>
 <table>
